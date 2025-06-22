@@ -6,7 +6,7 @@ Imagine um lugar onde suas ideias ganham forma, brilham e inspiram. Bem-vindo ao
 
 ## Veja o CodeConnect em Ação\! 👀
 
-(Aqui, insira a **melhor representação visual** do seu projeto. Um GIF ou vídeo curto é ideal para capturar a atenção rapidamente\!)
+![Captura de tela da aplicação da CodeConnect](img/CodeConnect.png/)
 
 -----
 
