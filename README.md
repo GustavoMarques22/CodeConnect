@@ -45,12 +45,6 @@ Sua criatividade pode ser o próximo passo do CodeConnect\! Se você tem uma ide
 
 ## Licença 📄
 
-Este projeto é um convite à inovação e está licenciado sob a [Nome da Licença, por exemplo: Licença MIT](https://www.google.com/search?q=LINK_PARA_LICENCA).
-
------
-
-## Compartilhe Sua Jornada de Aprendizado\! 📚
-
-Se o CodeConnect te inspirou ou te ajudou a aprender algo novo, celebre seu progresso\! Use a hashtag **\#AprendiNaAlura** em suas redes sociais e faça parte dessa comunidade que cresce e aprende junto\! 🚀
+Este projeto é de código aberto e está disponível sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir.
 
 -----
